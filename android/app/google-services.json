@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528681974525",
+    "project_id": "stuteach-b7db0",
+    "storage_bucket": "stuteach-b7db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528681974525:android:63fc63173889c2e8601c94",
+        "android_client_info": {
+          "package_name": "com.example.stu_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb_OBuDxuAXOCIeeia9eLlpJlk5ywgZWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528681974525:android:ea700193d265125d601c94",
+        "android_client_info": {
+          "package_name": "com.exsample.stu_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb_OBuDxuAXOCIeeia9eLlpJlk5ywgZWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
